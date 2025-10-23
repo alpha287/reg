@@ -129,7 +129,7 @@ const Index = () => {
           </div>
           <div className="text-center">
             <p className="text-xl text-muted-foreground mb-4">
-              Build, test, and debug regex patterns instantly with AI-powered insights and multi-language code generation
+              Best AI Regex Tool Online. Instantly build, test, and debug regex patterns with AI insights and multi-language support.
             </p>
             <div className="flex justify-center">
               <RegexToolbar
@@ -317,7 +317,7 @@ const Index = () => {
                 <h3 className="font-semibold text-lg">setregex</h3>
               </div>
               <p className="text-sm text-muted-foreground mb-3">
-                The ultimate regular expression testing and debugging tool for developers.
+                The Best AI Regex Tool Online. Query Genie lets you create, test, and debug regex patterns and formulas with AI-powered insights.
               </p>
               <p className="text-xs text-muted-foreground">
                 © 2024 setregex. All rights reserved.
